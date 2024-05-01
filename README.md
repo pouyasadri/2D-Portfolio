@@ -4,7 +4,7 @@
 This is meant as a template that you can use to build your own. It works on both desktop
 and mobile.
 
-- Live Demo : https://pouyasadri.github.io/portfolio/
+- Live Demo : [https://pouyasadri.github.io/portfolio/](https://pouyasadri.github.io/2D-Portfolio/)
 
 ## How to run
 
